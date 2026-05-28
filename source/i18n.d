@@ -362,7 +362,7 @@ shared static this() {
             Msg.toast_install_success: "Entrada desktop instalada!",
             Msg.toast_install_fail: "A instalação falhou: ",
             Msg.hint_flatpak_manual: "Devido às restrições de segurança do Flatpak, o destino deve ser confirmado através do seletor de ficheiros"
-        ]
+        ],
         "uk": [
             Msg.app_title: "Ховач",
             Msg.select_page_title: "Шифрування або розшифрування",
