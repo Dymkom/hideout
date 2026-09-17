@@ -7,7 +7,6 @@
   <name xml:lang="uk">Ховач</name>
   <developer id="it.andreafontana">
     <name>Andrea Fontana</name>
-    <name xml:lang="uk">Андреа Фонтана</name>
   </developer>
 
   <branding>
@@ -21,7 +20,7 @@
   <summary xml:lang="es">Cifrado seguro de archivos</summary>
   <summary xml:lang="de">Sichere Dateiverschlüsselung</summary>
   <summary xml:lang="pt">Criptografia segura de arquivos</summary>
-  <summary xml:lang="uk">Просте та безпечне шифрування файлів</summary>
+  <summary xml:lang="uk">Безпечне шифрування файлів</summary>
 
   <description>
     <p>
